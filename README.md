@@ -1,6 +1,6 @@
 # Story
 This simple program uses Pillow, Python Image Library to reduce the size of images in a folder.
-I wanted to make this simple program, because I occasionaly upload some snapshots from movies to Notion, and Notion only allows images that are not bigger than 5 MB. It turned out to be really annoying to
+I wanted to make this simple program, because I occasionally upload some snapshots from movies to Notion, and Notion only allows images that are not bigger than 5 MB. It turned out to be really annoying to
 try to resize images one by one.
 ### Instructions on how to use this if you couldn't figured it out:
 + PIL must be installed. If you don't have Pillow installed, you can install it using:
